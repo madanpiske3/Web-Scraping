@@ -1,6 +1,14 @@
 # Web-Scraping
 [Web+Scraping+Cheat+Sheet+2.0.pdf](https://github.com/user-attachments/files/18245540/Web%2BScraping%2BCheat%2BSheet%2B2.0.pdf)
 
+# Cheat Sheet
+## Page 1
+![cheat-sheet2](https://github.com/user-attachments/assets/dd050eab-5889-4677-b093-f1828fd4582e)
+
+## Page 2
+![cheat-sheet1](https://github.com/user-attachments/assets/701b43e4-3d84-4fae-a6fe-3b39e669bdf0)
+
+
 ## Basics of Python for Web Scraping.
 
 ###### array index
