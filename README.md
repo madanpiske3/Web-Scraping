@@ -1,4 +1,5 @@
 # Web-Scraping
+[Web+Scraping+Cheat+Sheet+2.0.pdf](https://github.com/user-attachments/files/18245540/Web%2BScraping%2BCheat%2BSheet%2B2.0.pdf)
 
 ## Basics of Python for Web Scraping.
 
@@ -46,3 +47,16 @@ for ele in new_list:
         print('The element is not a number')
 
 ```
+
+##### While-Break
+```
+n = 10
+while True:
+    print(n)
+    n-=1
+    if n == 1:
+        break
+print('Loop Exited')
+
+```
+
