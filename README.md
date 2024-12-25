@@ -68,3 +68,30 @@ print('Loop Exited')
 
 ```
 
+## HTML for Web Scraping.
+
+### Libraries we need to import
+
+```
+pip install bs4
+pip install requests
+pip install lxml
+```
+```
+Important: Versions of libraries that work for this section
+In this section, we'll learn Beautiful Soup. This is the easiest Python library for web scraping, but it has a lot of limitations. This is why we'll learn the essential stuff of web scraping with Beautiful Soup and then move on to more powerful scraping tools.
+
+The scripts work fine with these versions of the libraries (in parentheses the latest versions that also work fine in 2024).
+
+
+- bs4 4.9.3 (v4.12.3)
+
+- requests 2.25.1
+
+- lxml 4.6.3 (v5.1.0).
+
+You can install a specific version of a library with the command pip install <name-of-library>==<version>
+
+
+Note: In case you can't install lxml, try installing html.parser (pip install html.parser) and replace lxml with html.parser in the script
+```
