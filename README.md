@@ -34,3 +34,15 @@ print(df_states)
 df_states.to_csv('states.csv', index = False)
 
 ```
+
+##### Exception Handling
+``` py
+new_list = [2,4,6, 'India']
+
+for ele in new_list:
+    try:
+        print(ele / 2)
+    except:
+        print('The element is not a number')
+
+```
